@@ -1,4 +1,4 @@
-# WordPress-Theme-Detect
+# WordPress Theme Detect
 Detect WordPress theme used on a website
 
 To display the form on a page or post, you can use the following shortcode:
